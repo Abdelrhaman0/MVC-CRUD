@@ -1,9 +1,3 @@
-Here is a **complete, detailed `README.md`** you can copy **as-is** into your GitHub repository.
-I wrote it in a **professional junior-developer style**, suitable for **recruiters, interviews, and portfolios**, especially for a **Java backend role**.
-
----
-
-# MVC-CRUD Application
 
 ## 📌 Overview
 
